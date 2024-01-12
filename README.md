@@ -2,3 +2,4 @@
 # ML-Classifier
 
 In this project, I used `kNeighboursClassifier`, `RandomForestClassifier`, `DecisionTree` and `LogisticRegression` to classy `Dry_Beans_Dataset.csv`.
+## See my full project [here](https://itgelganbold98.github.io/ML-Classifier/).
